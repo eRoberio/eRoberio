@@ -100,7 +100,7 @@ I work with **API integrations**, **databases**, **authentication**, and **autom
 
 📎 [GitHub](https://github.com/eRoberio)  
 💼 [LinkedIn](https://www.linkedin.com/in/robério-moreira-658b98169/)  
-📧 **roberio.dev@gmail.com**
+📧 **roberio.developer@gmail.com**
 
 ---
 
