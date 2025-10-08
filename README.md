@@ -1,10 +1,12 @@
-# 👋 Olá, eu sou Robério Moreira
+# 👋 Hi, I'm Robério Moreira  
 
-## 💡 Principais Tecnologias e Certificações
+### 💻 Software Developer | Flutter | .NET | Angular | n8n | Firebase  
+
+---
+
+## 💡 Tech Stack & Tools
 
 <div align="center">
-
-### 🚀 Stacks e Ferramentas
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-00BFA6?style=for-the-badge&logo=flutter&logoColor=white)
@@ -27,86 +29,95 @@
 
 ---
 
-### 📜 Certificações
+## 📜 Certifications
 
-🛡️ **Segurança da Informação & Back-end**
+🛡️ **Information Security & Back-end**
 - Cybersecurity  
-- SQL para Desenvolvedores  
-- Iniciando com ASP.NET Core  
-- REST com ASP.NET Core WebAPI  
-- Dominando o ASP.NET MVC Core  
+- SQL for Developers  
+- Getting Started with ASP.NET Core  
+- REST with ASP.NET Core WebAPI  
+- Mastering ASP.NET MVC Core  
 - ASP.NET Core Enterprise Applications  
-- Fundamentos de Arquitetura de Software  
+- Software Architecture Fundamentals  
 
 💻 **Full Stack & Front-end**
-- Formação Full Stack Developer  
-- Formação Front-End Angular Expert  
-- Desenvolvimento SPA com Angular  
-- Desenvolvimento Avançado em Angular  
-- Formação ASP.NET Core Expert  
+- Full Stack Developer Program  
+- Angular Front-End Expert Program  
+- SPA Development with Angular  
+- Advanced Angular Development  
+- ASP.NET Core Expert Program  
 
-📱 **Mobile & Outros**
-- Desenvolvimento Mobile (2 certificações)  
-- Hackathon SEBRAE  
-- Expedição São Paulo  
-
----
-
-## 🙋‍♂️ Sobre mim
-
-Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções reais. Com sólida experiência em **Desenvolvimento Web, Desktop e Mobile**, atuo como Desenvolvedor de Software no **Instituto Adventista de Tecnologia (IATec)**.  
-
-🔐 Especialista em **segurança da informação**, tenho buscado unir conhecimento técnico com responsabilidade, usabilidade e propósito nas soluções que desenvolvo.
-
-🎯 **Objetivo atual:** Continuar desenvolvendo sistemas eficientes, seguros e modernos, contribuindo para times de alta performance com projetos que causam impacto real – especialmente com **Flutter**, **n8n**, **MongoDB**, **.NET** e **Angular**.
+📱 **Mobile & Others**
+- Mobile Development (2 certifications)  
+- SEBRAE Hackathon  
+- São Paulo Expedition  
 
 ---
 
-## 💼 Experiência Profissional
+## 🙋‍♂️ About Me  
 
-- **Desenvolvedor de Software** – *IATec - Instituto Adventista de Tecnologia*  
-  `Abr/2021 - atualmente · Remoto`
+I’m passionate about technology, innovation, and building real-world solutions.  
+With strong experience in **Web, Desktop, and Mobile Development**, I currently work as a **Software Developer at Instituto Adventista de Tecnologia (IATec)**.  
+
+🔐 Specialist in **Information Security**, I focus on combining technical expertise, usability, and purpose to deliver meaningful results.  
+
+🎯 **Current goal:** Keep developing efficient, secure, and modern systems, contributing to high-performance teams and impactful projects — mainly using **Flutter**, **n8n**, **MongoDB**, **.NET**, and **Angular**.  
+
+---
+
+## 💼 Professional Experience
+
+| Role | Company | Period | Location |
+|------|----------|---------|----------|
+| **Software Developer** | IATec - Instituto Adventista de Tecnologia | Apr/2021 – Present | Remote |
+| **IT Systems Analyst** | Alcif Mais | Sep/2020 – Mar/2021 | Itabuna, BA |
+| **Computer Lab Monitor** | Faculdade Adventista da Bahia | Sep/2019 – Jun/2020 | Cachoeira, BA |
+| **Gate Monitor** | Faculdade Adventista da Bahia | Mar/2018 – Feb/2019 | Cachoeira, BA |
+
+---
+
+## 🎓 Academic Background
+
+🎓 **Postgraduate Lato Sensu in Distributed Software Architecture**  
+*PUC Minas* – 2022–2023  
+
+🧠 **MBA in Information Security**  
+*Descomplica Digital College* – 2020–2021  
+
+💡 **Bachelor’s Degree in Information Technology Management**  
+*Bahia Adventist College* – 2018–2020  
+
+---
+
+## 📱 Published Apps
+
+I have **5 apps published on Google Play**, developed with **Flutter** and **FlutterFlow**, focused on internal, social, and educational solutions.  
+I work with **API integrations**, **databases**, **authentication**, and **automation** using tools like **Firebase** and **n8n**.  
+
+---
+
+## 🌐 Contact & Portfolio  
+
+📎 [GitHub](https://github.com/eRoberio)  
+💼 [LinkedIn](https://www.linkedin.com/in/robério-moreira-658b98169/)  
+📧 **roberio.dev@gmail.com**
+
+---
+
+## 💬 A Little More About Me  
+
+I’m driven by challenges and by the mission to build purposeful solutions.  
+I value technical excellence, collaboration, and Christian principles that guide both my life and career.  
+
+> “Learning never ends.” — That’s the motto I live by every day.  
+
+🔎 *If you made it this far and want to collaborate, exchange ideas, or have a position on your team — let’s connect!*  
+
+---
+
+<div align="center">
   
-- **Analista de Sistemas de TI** – *Alcif Mais*  
-  `Set/2020 - Mar/2021 · Itabuna, BA`
-  
-- **Monitor de Laboratório de Informática** – *Faculdade Adventista da Bahia*  
-  `Set/2019 - Jun/2020 · Cachoeira, BA`
-  
-- **Monitor de Portaria** – *Faculdade Adventista da Bahia*  
-  `Mar/2018 - Fev/2019 · Cachoeira, BA`
+💙 *Thanks for visiting my profile!*  
+⭐️ *Feel free to explore my repositories and leave a star if you like my work!*  
 
----
-
-## 🎓 Formação Acadêmica
-
-- 🧠 **MBA em Segurança da Informação**  
-  *Descomplica Faculdade Digital* – 2020–2021
-
-- 🎓 **Graduação em Gestão da Tecnologia da Informação**  
-  *Faculdade Adventista da Bahia* – 2018–2020
-
----
-
-## 📱 Aplicativos publicados
-
-Tenho **5 apps publicados na Google Play Store**, desenvolvidos em **Flutter** e também com **FlutterFlow**, voltados para soluções internas, sociais e educacionais.  
-Trabalho com integração a APIs, banco de dados, autenticação e automações utilizando ferramentas como **Firebase** e **n8n**.
-
----
-
-## 🌐 Contato e Portfólio
-
-- [GitHub](https://github.com/eRoberio)
-- [LinkedIn](https://www.linkedin.com/in/robério-moreira-658b98169/)
-- E-mail: **roberio.dev@gmail.com**
-
----
-
-## 💬 Um pouco mais sobre mim
-
-Sou movido por desafios e pela missão de construir soluções com propósito. Valorizo a excelência técnica, o trabalho colaborativo e princípios cristãos que me guiam na vida e na carreira.
-
-> “O aprendizado nunca termina.” – E esse é o lema que me acompanha todos os dias.
-
-🔎 *Se você chegou até aqui e quer colaborar, trocar ideias ou tem uma vaga no seu time, vamos conversar!*
+</div>
